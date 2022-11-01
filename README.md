@@ -14,18 +14,19 @@ Colab을 사용하면 누구나 브라우저를 통해 임의의 Python 코드�
 ---
 ## ❤️Contents
 > [혼자 공부하는 머신러닝+딥러닝](https://github.com/rickiepark/hg-mldl) 자습서 내용을 일부 포함하고 있습니다.
-- K-Nearst Neighbors
-- Train-set, Test-set
-- Data Preprocessing
-- K-Nearst Neighbors Regression
-- Linear Regression
-- Regularization
-- GradientDescent
-- Decision Tree
-- Validation, Search
-- Ensemble
-- Clustering
-- K-Means
+- [K-Nearst Neighbors](/K_NearstNeighbors.ipynb)
+- [Train-set, Test-set](/TrainSetAndTestSet.ipynb)
+- [Data Preprocessing](/DataPreprocessing.ipynb)
+- [K-Nearst Neighbors Regression](/K_NearstNeighborsRegression.ipynb)
+- [Linear Regression](/LinearRegression.ipynb)
+- [Regularization](/Regularization.ipynb)
+- [GradientDescent](/GradientDescent.ipynb)
+- [Decision Tree](/DecisionTree.ipynb)
+- [Validation, Search](/ValidationAndSearch.ipynb)
+- [Ensemble](/Ensemble.ipynb)
+- [Clustering](/Clustering.ipynb)
+- [K-Means](/KMeans.ipynb)
+- [PCA](/PrincipalComponentAnalysis.ipynb)
 
 ---
 ## ©License
