@@ -35,6 +35,7 @@ Colab을 사용하면 누구나 브라우저를 통해 임의의 Python 코드�
     - [Convolution Neural Network](./deep-learning/ConvolutionNeuralNetwork/)
     - [Visualization](./deep-learning/Visualization/)
     - [Recurrent Neural Network](./deep-learning/RecurrentNeuralNetwork/)
+    - [LSTM and GRU](./deep-learning/LSTM-GRU/)
 ---
 ## ©License
 MIT
