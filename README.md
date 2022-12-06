@@ -25,17 +25,17 @@ Colab을 사용하면 누구나 브라우저를 통해 임의의 Python 코드�
     - [Decision Tree](/DecisionTree.ipynb)
     - [Validation, Search](/ValidationAndSearch.ipynb)
     - [Ensemble](/Ensemble.ipynb)
-    - [Clustering](/Clustering.ipynb)
-    - [K-Means](/KMeans.ipynb)
-    - [PCA](/PrincipalComponentAnalysis.ipynb)
+    - [Clustering](/N12-Clustering/Clustering.ipynb)
+    - [K-Means](/N13-KMeans/KMeans.ipynb)
+    - [PCA](/N14-PCA/PrincipalComponentAnalysis.ipynb)
 2. **DL(Deep-Learning)**
-    - [Artificial Neural Network](./deep-learning/ArtificialNeuralNetwork.ipynb)
-    - [Deep Neural Network](./deep-learning/DeepNeuralNetwork.ipynb)
-    - [Neural Network Training Course](./deep-learning/NeuralNetworkTrainingCourse.ipynb)
-    - [Convolution Neural Network](./deep-learning/ConvolutionNeuralNetwork/)
-    - [Visualization](./deep-learning/Visualization/)
-    - [Recurrent Neural Network](./deep-learning/RecurrentNeuralNetwork/)
-    - [LSTM and GRU](./deep-learning/LSTM-GRU/)
+    - [Artificial Neural Network](./deep-learning/N15-ArtificialNeuralNetwork/ArtificialNeuralNetwork.ipynb)
+    - [Deep Neural Network](./deep-learning/N16-DeepNeuralNetwork/DeepNeuralNetwork.ipynb)
+    - [Neural Network Training Course](./deep-learning/N17-TrainingNeuralNetwork/TrainingNeuralNetwork.ipynb)
+    - [Convolution Neural Network](./deep-learning/N18-ConvolutionNeuralNetwork/ConvolutionNeuralNetwork.ipynb)
+    - [Visualization](./deep-learning/N19-Visualization/Visualization.ipynb)
+    - [Recurrent Neural Network](./deep-learning/N20-RecurrentNeuralNetwork/RecurrentNeuralNetwork.ipynb)
+    - [LSTM and GRU](./deep-learning/N21-LSTM-GRU/LSTM-GRU.ipynb)
 ---
 ## ©License
 MIT
